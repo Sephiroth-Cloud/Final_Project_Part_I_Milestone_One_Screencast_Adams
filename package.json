@@ -1,0 +1,12 @@
+{
+  "name": "Final_Project_Part_I_Milestone_One_Screencast_Adams",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Sephiroth-Cloud/Final_Project_Part_I_Milestone_One_Screencast_Adams",
+  "author": "Sephiroth-Cloud <tyler.adams8@snhu.edu>",
+  "license": "MIT"
+  "scripts": {
+    "start": "node index.js"
+    "release": "standard-version"
+  }
+}
